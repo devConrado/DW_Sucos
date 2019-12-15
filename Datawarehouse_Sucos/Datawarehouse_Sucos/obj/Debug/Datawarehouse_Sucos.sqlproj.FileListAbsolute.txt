@@ -1,9 +1,0 @@
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\bin\Debug\Datawarehouse_Sucos.dacpac
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\bin\Debug\Datawarehouse_Sucos.dll
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\bin\Debug\Datawarehouse_Sucos.pdb
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\obj\Debug\Model.xml
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\obj\Debug\refactor.xml
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\obj\Debug\postdeploy.sql
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\obj\Debug\predeploy.sql
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\obj\Debug\Datawarehouse_Sucos.dll
-C:\Projetos\Datawarehouse_Sucos\Datawarehouse_Sucos\obj\Debug\Datawarehouse_Sucos.pdb
